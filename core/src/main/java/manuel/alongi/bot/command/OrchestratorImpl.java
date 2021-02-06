@@ -1,5 +1,6 @@
 package manuel.alongi.bot.command;
 
+import lombok.extern.log4j.Log4j;
 import manuel.alongi.bot.service.AmazonPollerService;
 import manuel.alongi.bot.service.GamestopPollerService;
 import manuel.alongi.bot.service.MediaworldPollerService;
